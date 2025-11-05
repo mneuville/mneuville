@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 🖖
 
-<!--
-**mneuville/mneuville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maxime Neuville**, a Lead Developer ✨
 
-Here are some ideas to get you started:
+- 💼 Passionate about **Symfony**, **UX**, and building high-performance web apps  
+- 🔭 Currently working at [@espace-des-marques](https://github.com/espace-des-marques), where I build robust e-commerce platforms with **Sylius**  
+- 🌱 Exploring **AI** and its integration into modern web architectures  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About me
+When I'm not coding, you’ll find me:  
+- 🤿 Diving under the sea — I’m a scuba diving enthusiast  
+- 🏸 On the court, playing badminton to stay sharp  
+
+---
+
+### 🧰 Tech stack
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Sylius](https://img.shields.io/badge/Sylius-1A8C82?style=for-the-badge&logo=sylius&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
